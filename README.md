@@ -24,7 +24,7 @@ This is a Next.js application with full-stack capabilities (frontend + backend) 
 
 ## Tech Stack
 
-- **Frontend**: Next.js 15 with React 19
+- **Frontend**: Next.js 16 with React 19
 - **Backend**: Next.js API Routes
 - **Styling**: Tailwind CSS
 - **Database & Auth**: Supabase
