@@ -128,7 +128,7 @@ input:focus {
 
 .error {
   background: #fee;
-  color: #c33;
+  color: #b91c1c;
   padding: 12px;
   border: 1px solid #fcc;
   border-radius: 4px;
@@ -137,7 +137,7 @@ input:focus {
 
 .success {
   background: #efe;
-  color: #3c3;
+  color: #2a7c2a;
   padding: 12px;
   border: 1px solid #cfc;
   border-radius: 4px;
