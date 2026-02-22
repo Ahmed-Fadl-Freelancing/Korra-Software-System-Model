@@ -96,7 +96,7 @@
 
 ---
 
-**Next.js UI → Django API (all business actions)**
+**Next.js UI → Django API (all business actions)** 
 
 **↓↓**
 
